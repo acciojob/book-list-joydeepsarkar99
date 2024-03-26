@@ -1,1 +1,22 @@
-/*  your css code here. If applicable */
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+body{
+    padding:10px;
+}
+h1{
+    font-weight: 400;
+    text-align: center;
+}
+span{
+    color: #599BFE;
+}
+input{
+    width:100%;
+}
+#submit,.delete{
+    font-size: 12px;
+}
+
